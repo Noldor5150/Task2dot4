@@ -6,9 +6,9 @@ namespace Task2dot4
 {
     public static class EmailSender
     {
-        private const string EMAIL_FROM = "noldor5150@gmail.com";
+        private const string EMAIL_FROM = "someemail";
 
-        private const string PASSWORD = "sindar5150";
+        private const string PASSWORD = "somepassword";
 
 		private const int SSL_PORT = 465;
 
